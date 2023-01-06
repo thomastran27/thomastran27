@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=thomastran27&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomastran27&layout=compact" alt="Most Used Languages">
+<img height=160 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomastran27&layout=compact" alt="Most Used Languages">
 </a>
