@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 * I'm currently majoring in Software Engineering at San Jose State University🎓 (Graduation set for Fall 2023)
 * Extremely passionate about front end and video game development 👨🏻‍💻
+* Feel free to take a look at and ask questions about any of my projects!
 * 📧 Email: thomastran.software@gmail.com
 <a href="https://linkedin.com/in/thomastransoftware/">
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
