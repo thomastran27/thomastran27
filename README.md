@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **thomastran27/thomastran27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=ThomasTran%20&height=200&section=header)](https://github.com/Akshay090/svg-banners)
+[![header](https://svg-banners.vercel.app/api?type=luminance&text1=ThomasTran%20&height=200&section=header)](https://github.com/Akshay090/svg-banners)
