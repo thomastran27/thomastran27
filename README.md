@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
 
 
-  ## Java Projects <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" width = "50"> <br>
+  ## Java Projects <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" width = "75"> <br>
   ## Python Projects <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width = "50"> <br>
 
   ##
