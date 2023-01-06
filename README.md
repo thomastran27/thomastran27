@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 
 [![header](https://svg-banners.vercel.app/api?type=luminance&text1=Thomas%20Tran&height=200&section=header)](https://github.com/Akshay090/svg-banners)
 
-### [![header](https://svg-banners.vercel.app/api?type=typeWriter&text1=About%20Me%20👋&fibtSuze=80&height=100&section=header)](https://github.com/Akshay090/svg-banners)
-
+## About Me 
+* I'm currently majoring in Software Engineering at San Jose State University🎓 (Graduation set for Fall 2023)
+* Extremely passionate about front end and video game development 👨🏻‍💻
+* 📧 Email: thomastran.software@gmail.com
+<a href="https://linkedin.com/in/thomastransoftware/">
+  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
