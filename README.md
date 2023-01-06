@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 [![header](https://svg-banners.vercel.app/api?type=luminance&text1=Thomas%20Tran&height=200&section=header)](https://github.com/Akshay090/svg-banners)
 
-### [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=About%20Me%20👋&fibtSuze=30&height=75)](https://github.com/Akshay090/svg-banners)
+### [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=About%20Me%20👋&fibtSuze=30&height=50)](https://github.com/Akshay090/svg-banners)
 
