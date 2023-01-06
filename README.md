@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 * 📧 Email: thomastran.software@gmail.com
 <a href="https://linkedin.com/in/thomastransoftware/">
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
-<a href="https://github.com/thomastransoftware">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=thomastran27&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 <img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomastran27&layout=compact" alt="Most Used Languages">
 </a>
