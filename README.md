@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 <a href="https://linkedin.com/in/thomastransoftware/">
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
-
+  ## Current Projects <br>
+  Nexus - https://github.com/JimSongTheGreatest/Nexus <br>
   ## Python Projects <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width = "50"> <br>
   * Fitnest - https://github.com/thomastran27/Fitnest <br>
   * Studious - https://github.com/thomastran27/CMPE131ProjectTeam4 <br>
