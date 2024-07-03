@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=About+Me)](https://git.io/typing-svg)
 
-* I'm currently majoring in Software Engineering at San José State University 🎓 (Graduation set for Fall 2023)
+* Currently working at Cienet @ Google
+* Bachelors in Software Engineering at San Jose State University
 * Passionate about front end development 👨🏻‍💻
 * Feel free to take a look at and ask questions about any of my projects!
 * 📧 Email: thomastran.software@gmail.com
