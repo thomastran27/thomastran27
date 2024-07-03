@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/> 
   
   ## Current Projects <br>
-  * Nexus - https://github.com/JimSongTheGreatest/Nexus <br>
+  * DevBrief
   
   ## Python Projects <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width = "50"> <br>
   * Fitnest - https://github.com/thomastran27/Fitnest <br>
@@ -36,6 +36,9 @@ Here are some ideas to get you started:
   
   ## Java Projects <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" width = "75"> <br>
   * Hydromate - https://github.com/thomastran27/Hydromate <br>
+
+  ## Typescript Projects
+  * Nexus - https://github.com/JimSongTheGreatest/Nexus <br>
   
   ##
 [![GitHub Streak](https://streak-stats.demolab.com?user=thomastran27&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
